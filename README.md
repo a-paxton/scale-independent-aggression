@@ -11,7 +11,7 @@ This repo contains several files:
 ## Related materials
 
 Data for the analyses (as accepted by *Complexity*) can be found at our OSF
-project: https://osf.io/wtgp4/.
+project: https://osf.io/8qcya/.
 
 ## Notes on running and viewing
 
