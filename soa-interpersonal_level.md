@@ -17,18 +17,20 @@ To run this from scratch, you will need the following files:
 from head-mounted accelerometers. Data were originally collected as part of Paxton 
 and Dale  (2017, *Frontiers in Psychology*). Data are freely available in the OSF 
 repository for the original project (https://osf.io/x9ay6/) and linked in the OSF
-repository for the current project (https://osf.io/wtgp4/).
+repository for the current project (https://osf.io/8qcya/).
 * `./scripts/soa-required_packages.r`: Installs required libraries, 
 if they are not already installed. **NOTE**: This should be run *before* running 
 this script.
 
 The code will output time series of movement events taken from the continuous time
 series in two ways:
+
 * `threshold`: count an event as occurring if the change in Euclidean
-acceleration from sample to sample exceeds the 90th percentile in
-change-in-acceleration for that participant in that conversation
+  acceleration from sample to sample exceeds the 90th percentile in
+  change-in-acceleration for that participant in that conversation
 * `derivative`: count an event as occurring if we identify a switch point 
-in Euclidean jerk (the derivative of acceleration)
+  in Euclidean jerk (the derivative of acceleration)
+
 Although both analyses provide consistent patterns of results, we ultimately chose
 to use the `threshold` data because it is more reflective of perceptible changes
 in movement by their partners.

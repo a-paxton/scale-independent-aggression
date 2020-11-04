@@ -24,6 +24,7 @@ this script.
 
 The code will output time series of movement events taken from the continuous time
 series in two ways:
+
 * `threshold`: count an event as occurring if the change in Euclidean
   acceleration from sample to sample exceeds the 90th percentile in
   change-in-acceleration for that participant in that conversation

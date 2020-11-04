@@ -21,7 +21,7 @@ To run this from scratch, you will need the following files:
 accelerometers. Data were originally collected as part of Paxton and Dale 
 (2017, *Frontiers in Psychology*). Data are freely available in the OSF repository for 
 the original project (https://osf.io/x9ay6/) and are linked in the OSF repository
-for the current project (https://osf.io/wtgp4/).
+for the current project (https://osf.io/8qcya/).
 
 **Code written by**: A. Paxton (University of Connecticut)
 
