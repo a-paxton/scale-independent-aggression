@@ -2,7 +2,7 @@
 
 This repo contains the code for the analyses presented in our article, 
 "Scale-independent aggression" (Blau & Paxton, in press, *Complexity*). 
-It is intended to accompany our OSF project (https://osf.io/wtgp4/).
+It is intended to accompany our OSF project (https://osf.io/8qcya/).
 
 ## Overview
 
