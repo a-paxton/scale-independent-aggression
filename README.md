@@ -1,8 +1,10 @@
-# Code for "Scale-independent aggression" (Blau & Paxton, in press, *Complexity*)
+# Code for "Scale-independent aggression" (Blau & Paxton, 2020, *Complexity*)
 
 This repo contains the code for the analyses presented in our article, 
-"Scale-independent aggression" (Blau & Paxton, in press, *Complexity*). 
+"Scale-independent aggression" (Blau & Paxton, 2020, *Complexity*). 
 It is intended to accompany our OSF project (https://osf.io/8qcya/).
+The open-access article is available here: 
+https://www.hindawi.com/journals/complexity/2020/2047157/
 
 ## Overview
 
